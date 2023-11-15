@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shakil617" target="blank"><img src="https://img.shields.io/twitter/follow/shakil617?logo=twitter&style=for-the-badge" alt="shakil617" /></a> </p>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **GraphQl**
 
 - 💬 Ask me about **MERN**
 
@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/shakil617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shakil617" height="30" width="40" /></a>
 <a href="https://fb.com/md.shakilahmed.17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.shakilahmed.17" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shakil-ahmed-web-dev/" target="blank"><img align="center" src="https://res.cloudinary.com/dwogefm7f/image/upload/v1700052237/317750_linkedin_icon_xyyc4e.png" alt="https://www.linkedin.com/in/shakil-ahmed-web-dev/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
