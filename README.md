@@ -1,6 +1,6 @@
 [![MasterHead](https://i.ibb.co/hcwDyrP/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e6769.gif)](https://github.com/mdxshakil)
 <h1 align="center">Hi 👋, I'm Shakil Ahmed</h1>
-<h2 align="center">A full stack web developer</h3>
+<h2 align="center">A frontend web developer</h3>
 <img align='right' alt="Shakil Ahmed" width="400" src="https://res.cloudinary.com/dwogefm7f/image/upload/v1707065855/67658072_2367534883490086_5329295373355712512_n_j9zcqm.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdxshakil&label=Profile%20views&color=0e75b6&style=flat" alt="mdxshakil" /> </p>
